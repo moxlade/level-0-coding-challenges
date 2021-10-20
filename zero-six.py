@@ -6,7 +6,4 @@ def maxi_number(x,y,z):
     else:
         return z 
 
-a = int(input())
-b = int(input())
-c = int(input())
-print(maxi_number(a,b,c))
+
