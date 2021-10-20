@@ -5,8 +5,4 @@ def triangle_area(x,y,z):
     a = h ** 0.5
     return a
 
-f = int(input())
-g = int(input())
-j = int(input())
-print(triangle_area(f,g,j))
 
