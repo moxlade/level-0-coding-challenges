@@ -4,5 +4,3 @@ def even_or_odd(x):
     else:
         return "odd"
 
-y = int(input())
-print(even_or_odd(y))
