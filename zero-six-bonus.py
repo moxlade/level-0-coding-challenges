@@ -1,5 +1,5 @@
 def maxi_number(*args):
-    maximum = 0
+    maximum = args[0]
     index = 0
     for i in args:
         index += 1
@@ -9,8 +9,7 @@ def maxi_number(*args):
 
     return maximum
 
-             
-        
+                 
 
         
 
